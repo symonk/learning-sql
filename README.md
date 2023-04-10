@@ -1,8 +1,6 @@
 ## Sql Cheat Sheet
 
------
-
-#### Basic Select
+### Selection
 
 -----
 
@@ -19,3 +17,5 @@ Selecting a subset of column information from a table named `film`.
 # Select name and author for each film
 SELECT name, author from film;
 ```
+
+-----
