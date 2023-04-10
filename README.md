@@ -1,5 +1,7 @@
 ## Sql Cheat Sheet
 
+A simple cheat sheet for sql syntax.  This cheat sheet is geared towards `postgres` but is applicable to others.
+
 ### Selection
 
 -----
