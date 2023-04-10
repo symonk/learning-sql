@@ -1,8 +1,8 @@
-#### Sql Cheat Sheet
+## Sql Cheat Sheet
 
 -----
 
-## Basic Select
+#### Basic Select
 
 -----
 
@@ -12,4 +12,3 @@ Selecting basic column information from a table:
 # Select all column information from a table named `film`.
 SELECT * from film;
 ```
-
