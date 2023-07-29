@@ -1,23 +1,11 @@
 ## Sql Cheat Sheet
 
-A simple cheat sheet for sql syntax.  This cheat sheet is geared towards `postgres` but is applicable to others.
-
-### Selection
-
------
-
-Selecting basic column information from a table:
-
-```sql
-# Select all column information from a table named `film`.
-SELECT * from film;
-```
-
-Selecting a subset of column information from a table named `film`.
-
-```sql
-# Select name and author for each film
-SELECT name, author from film;
-```
+A collection of recipes used while learning `sql`.  The repository houses a docker compose to bring up a `postgres` database
+with sufficient table(s) for all contents in the repository.  The resources are geared towards `postgres` but the bulk
+majority will apply to all implementations of sql.
 
 -----
+
+### Table of Contents:
+
+    - [Select](selects/)
