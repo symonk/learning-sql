@@ -8,4 +8,4 @@ majority will apply to all implementations of sql.
 
 ### Table of Contents:
 
-    - [Select](selects/)
+* [Select](selects/)
