@@ -12,10 +12,10 @@ The database and exercises are centered around tolkiens `LOTR`.
 
 To have the database accessible:
 
-    * Have `docker` installed
-    * Have `docker-compose` installed
-    * Run `docker-compose up` in the root directory
-    * Modern versions of compose may be available under `docker compose up`
+* Have `docker` installed
+* Have `docker-compose` installed
+* Run `docker-compose up` in the root directory
+* Modern versions of compose may be available under `docker compose up`
 
 -----
 
