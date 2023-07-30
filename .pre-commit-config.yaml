@@ -3,6 +3,6 @@ repos:
     rev: 2.1.4
     hooks:
       - id: sqlfluff-fix
-        args: [--dialect, postgres]
+        args: [--dialect, postgres, --ignore, AM04]
       - id: sqlfluff-lint
-        args: [--dialect, postgres]
+        args: [--dialect, postgres, --ignore, AM04]

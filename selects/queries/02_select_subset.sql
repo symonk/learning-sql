@@ -1,4 +1,4 @@
-SELECT (npc_name) FROM NPC;
+SELECT (npc_name) FROM npc;
 
 /*
 "Aragon"
